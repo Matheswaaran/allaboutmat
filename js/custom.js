@@ -171,7 +171,7 @@ $('#menu-icon').on( "click", function(e) {
 *************************/
   var win = $(window),
       foo = $('#typer');
-      foo.typer(['<h2>Linux System Administrator</h2>','<h2>UI Designer / Web Developer </h2>' ]);           
+      foo.typer(['<h2>Linux System Administrator</h2>','<h2>Developer</h2>' ]);           
             win.resize(function(){
                 var fontSize = Math.max(Math.min(win.width() / (1 * 10), parseFloat(Number.POSITIVE_INFINITY)), parseFloat(Number.NEGATIVE_INFINITY));
                 foo.css({
