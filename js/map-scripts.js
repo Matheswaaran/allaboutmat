@@ -55,6 +55,6 @@ NOTE:
     });
     }
 
-    google.maps.event.addDomListener(window, 'load', initialize_map);
+    new google.maps.event.addDomListener(window, 'load', initialize_map);
 
 })(jQuery);
