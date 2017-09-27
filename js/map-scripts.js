@@ -22,6 +22,8 @@ NOTE:
         // Basic options for a simple Google Map
     // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
 
+      var directionsService = new google.maps.DirectionsService();
+      var directionsDisplay = new google.maps.DirectionsRenderer();
       var myLatLng = new google.maps.LatLng(9.924947699999999,78.12099519999992);
 
       var mapOptions = {
