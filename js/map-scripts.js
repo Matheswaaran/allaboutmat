@@ -8,7 +8,6 @@ Design and Developed by: potenzaglobalsolutions.com
 NOTE:  
 
 */
-
 (function($){
   "use strict";
 
