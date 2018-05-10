@@ -279,6 +279,7 @@ margin-left: -17px; line-height: 50px; }
 .resume-block .resume-icon  span { font-size: 40px; color: #9ea8b6; line-height: 50px; }
 .resume-block .resume-name { display: table-cell; }
 .resume-block .resume-name h3 { margin-top: 0px; margin-bottom: 5px; color: #07cb79; font-weight: 600; }
+.resume-block .resume-name a { margin-top: 0px; margin-bottom: 5px; color: #07cb79; font-weight: 600; }
 .resume-block .resume-name span { color: #9ea8b6; font-weight: 600; font-size: 18px; }
 .resume-block .resume-info h3 { margin-top: 0px; color: #2f3742; font-weight: 600; margin-bottom: 20px; }
 .resume-block.clearfix { margin-bottom: 0px; }
